@@ -1,0 +1,12 @@
+.buttonSize{
+ width:20px;
+ border-radius: 10px;
+}
+#conformationBooking-area{
+    display: none;
+    color: rgb(81, 134, 45);
+}
+
+#conformationBooking-area ul{
+    color: black;
+}

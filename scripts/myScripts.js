@@ -80,9 +80,5 @@ document.getElementById("buttonForBooking").addEventListener("click", function (
 });
 document.getElementById("confirm")
   .addEventListener("click", function () {
-    alert('Thank you. Your booking is confirm');
-
-
-  });
-
-
+ alert('Booking Confirmed');
+ });
